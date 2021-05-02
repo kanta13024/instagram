@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+}
+
+p.title {
+    color: yellow;
+    font-size: 300%;
+}
+
+p.title_pink {
+    color:deeppink;
+    font-size: 300%;
+    margin: 0;
+}
+
+main {
+    text-align: center;
+}
+
+img {
+    max-height: 400px;
+}
+
+p.line {
+    color: red;
+    margin: 0;
+    padding: 0;
+    font-size: 80%;
+}
+
+p.com {
+    margin: 0;
+    padding: 0;
+    font-size: 70%;
+}
+
+td {
+    background-color: lightblue;
+}
+
+table {
+    border: none;
+    margin: 1em;
+}
+
+#ue {
+    margin: 0 0 0 0;
+    height: 7rem;
+    overflow: auto;
+    background-color: brown;
+}
+
+#hidari {
+    margin: 7rem 0 0 0 ;
+    width: 6rem;
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-color: pink;
+}
+
+#main {
+    margin: 0 0 0 6rem;
+    height: 100%;
+    overflow: auto;
+    background-color: #99cc99;
+}
+
+#box {
+    width: 540px;
+    background-color: lightblue;
+    margin: 1rem 10rem;
+    padding: 1rem;
+}
